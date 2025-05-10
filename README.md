@@ -45,4 +45,5 @@ Accessing the Repository
 You can explore the project files and view the portfolio by visiting the repository directly:
 
  https://github.com/Kibirisman/group-portfolio-project
-
+## To view it online
+click https://kibirisman.github.io/group-portfolio-project/
